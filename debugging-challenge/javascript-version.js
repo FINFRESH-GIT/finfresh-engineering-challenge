@@ -43,3 +43,9 @@ async function calculateMonthlySummary(userId) {
 
   return summary
 }
+
+Example Output
+Income: ₹80,000
+Expenses: ₹52,000
+Savings: ₹28,000
+Savings Rate: 35%
